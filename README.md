@@ -1,8 +1,10 @@
 # React + Vite
+want to see this project live Click here 👉 https://reactproject-3-dicegame.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Have a look at my portfolio: Click here 👉 <a href="https://portfolio-suryamani-kumar-byj5.onrender.com/">Portfolio</a></h2>
 
-Currently, two official plugins are available:
+<h3>if you want to Run this App in your system then:</h3>
+<p>1st : clone this project</p>
+<p>2nd : Run this command in your terminal <b>npm i </b></p>
+<p>3rd : Run this command in your terminal <b>npm run dev </b></p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
